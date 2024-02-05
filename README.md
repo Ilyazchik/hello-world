@@ -1,3 +1,4 @@
+# help )
 # doesn't work completely
 # Game "Hagman"
 
